@@ -1,12 +1,13 @@
-GameServer
+MapleStoryServer
 ==========
-
-网络编程项目。
+A MapleStory Server in Go For CMS V079
+Go 编写的079版本冒险岛服务端
 
 Target
 ------
 
-实现一个游戏服务器，满足并发要求，并且保证一定的效率。
+实现一个079版本的冒险岛服务器.
+能够实现原Java的部分功能.
 
 Files
 -----
